@@ -78,6 +78,11 @@ public class LoginView extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(11, 232, 129));
         jPanel1.setFont(new java.awt.Font("Lucida Console", 1, 14)); // NOI18N
+        jPanel1.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mousePressed(java.awt.event.MouseEvent evt) {
+                jPanel1MousePressed(evt);
+            }
+        });
 
         jLabel4.setFont(new java.awt.Font("Lucida Console", 0, 14)); // NOI18N
         jLabel4.setText("LOGIN");
@@ -165,6 +170,13 @@ public class LoginView extends javax.swing.JFrame {
         pack();
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
+
+    private void jPanel1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel1MousePressed
+        // TODO add your handling code here:
+        MainView home = new MainView();
+        home.setVisible(true);
+        this.setVisible(false);
+    }//GEN-LAST:event_jPanel1MousePressed
 
     /**
      * @param args the command line arguments

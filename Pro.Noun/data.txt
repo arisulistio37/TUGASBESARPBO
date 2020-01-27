@@ -1,0 +1,15 @@
+
+Nama : asdasdasd
+Alamat : asdasdasd
+Phone : 1213123123123
+Pesanan :
+ - Steak
+ - Spagethi
+Total Pembayaran :90000.0
+Nama : 123123
+Alamat : 123123
+Phone : 123123123
+Pesanan :
+ - Steak
+ - Spagethi
+Total Pembayaran :90000.0
