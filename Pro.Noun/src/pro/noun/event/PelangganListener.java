@@ -5,10 +5,13 @@
  */
 package pro.noun.event;
 
+import pro.noun.model.PelangganModel;
+
 /**
  *
  * @author asus
  */
 public interface PelangganListener {
     
+    public void onChange(PelangganModel pelanggan);
 }
