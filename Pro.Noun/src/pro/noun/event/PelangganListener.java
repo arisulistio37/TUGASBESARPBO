@@ -5,13 +5,20 @@
  */
 package pro.noun.event;
 
+import pro.noun.entity.Pelanggan;
 import pro.noun.model.PelangganModel;
+
+
 
 /**
  *
- * @author asus
+ * @author Acer
  */
 public interface PelangganListener {
     
-    public void onChange(PelangganModel pelanggan);
+    public void onChange(PelangganModel model);
+    public void onInsert(Pelanggan pelanggan);
+    public void onDelete();
+    public void onUpdate(Pelanggan pelanggan);
+    
 }

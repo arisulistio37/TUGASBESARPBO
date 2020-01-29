@@ -3,8 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Github/Pro.Noun/src/pro/noun/Main.java</file>
-            <file>file:/D:/Github/Pro.Noun/src/pro/noun/MainView.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/model/PelangganModel.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/model/TabelPelangganModel.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/error/PelangganException.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/main/ProNoun.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/event/PelangganListener.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/impl/PelangganDaoImpl.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/view/NewLoginView.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/service/PelangganDao.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/controller/PelangganController.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/view/HalamanMainView.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/view/HalamanMainLogin.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/view/NewMainView.java</file>
+            <file>file:/D:/Github/Pro.Noun/src/pro/noun/entity/Pelanggan.java</file>
         </group>
     </open-files>
 </project-private>
